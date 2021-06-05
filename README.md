@@ -4,6 +4,6 @@ Taken from:
 - [Building a Live Driver Tracking Backend (Part 2 of 3)](https://blog.afi.io/building-live-driver-tracking-backend/)
 
  How to run the app:
- - B1: cd to your project
- - B2: Open terminal and run 'pod install'
- - B3: Press Command + R
+ 1. cd into your project
+ 2. Open terminal and run 'pod install' (this will install the required dependencies
+ 3. Open the file `TLDemo.xcworkspace` on Xcode
