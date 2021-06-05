@@ -9,7 +9,7 @@ Taken from:
 
  How to run the app:
  1. cd into your project
- 2. Open terminal and run 'pod install' (this will install the required dependencies
+ 2. Open terminal and run 'pod install' (this will install the required dependencies)
  3. Open the file `TLDemo.xcworkspace` on Xcode
 
 Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
