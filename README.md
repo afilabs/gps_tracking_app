@@ -1,4 +1,7 @@
 # gps_tracking_app
+
+![Live Driver Tracking on iOS](https://blog.afi.io/content/images/size/w1600/2021/03/mockup.png "Live Driver Tracking on iOS")
+
 Taken from: 
 - [Implementing Driver Live Tracking on iOS (Part 1 of 3)](https://blog.afi.io/implementing-driver-live-tracking-on-ios/)
 - [Building a Live Driver Tracking Backend (Part 2 of 3)](https://blog.afi.io/building-live-driver-tracking-backend/)
